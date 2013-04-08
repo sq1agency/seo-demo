@@ -1,4 +1,4 @@
 SEO demo
 ========
 
-[Sq1 Agency] SEO demo for GitHub
+[Sq1 Agency] SEO demo for GitHub TEST
